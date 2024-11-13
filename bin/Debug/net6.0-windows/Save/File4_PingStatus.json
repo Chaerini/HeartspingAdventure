@@ -1,0 +1,31 @@
+{
+  "level": 8,
+  "elegance": 50,
+  "stress": 0,
+  "power_level": 670,
+  "card num": 10,
+  "card flag": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "HP": 400.0,
+  "MaxHP": 400.0,
+  "exp": 360.0,
+  "Maxexp": 400.0,
+  "rest count": 0,
+  "snack count": 0,
+  "ballet count": 0,
+  "dance count": 0,
+  "Max rest count": 3,
+  "Max snack count": 1,
+  "Max ballet count": 2,
+  "Max dance count": 2
+}

@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|c:\\dwn\\workspace\\c_shap\\workspace\\hatsuping\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|c:\\dwn\\workspace\\c_shap\\workspace\\hatsuping\\loaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:loaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|c:\\dwn\\workspace\\c_shap\\workspace\\hatsuping\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|c:\\dwn\\workspace\\c_shap\\workspace\\hatsuping\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|c:\\dwn\\workspace\\c_shap\\workspace\\hatsuping\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|c:\\dwn\\workspace\\c_shap\\workspace\\hatsuping\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|c:\\dwn\\workspace\\c_shap\\workspace\\hatsuping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|c:\\dwn\\workspace\\c_shap\\workspace\\hatsuping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F7C49C-4CB7-445D-87DF-586C4E5F2DCB}|HatsuPing.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:14:40.089Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:32:15.939Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form9.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form9.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form9.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:20:31.806Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form1.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:13:31.594Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:17:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Status.cs",
+              "RelativeDocumentMoniker": "Status.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Status.cs",
+              "RelativeToolTip": "Status.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:44:36.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form9.Designer.cs",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form9.Designer.cs",
+              "RelativeDocumentMoniker": "Form9.Designer.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form9.Designer.cs",
+              "RelativeToolTip": "Form9.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:27:56.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form9.cs",
+              "RelativeToolTip": "Form9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:25:50.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\SaveData.cs",
+              "RelativeDocumentMoniker": "SaveData.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\SaveData.cs",
+              "RelativeToolTip": "SaveData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:29:22.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadData.cs",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\LoadData.cs",
+              "RelativeDocumentMoniker": "LoadData.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\LoadData.cs",
+              "RelativeToolTip": "LoadData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:28:46.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\DWN\\WorkSpace\\C_shap\\WorkSpace\\HatsuPing\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:01:25.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
